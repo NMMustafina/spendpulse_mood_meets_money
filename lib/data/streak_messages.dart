@@ -1,0 +1,58 @@
+final Map<int, List<String>> streakMessages = {
+  1: [
+    'Great start! You’ve made one smart spending choice this week.',
+    'Every step counts! One day without impulse buys is a win.',
+    'You’re on the right track! One day of mindful spending.',
+    'Celebrate your progress! You’ve taken the first step toward better habits.',
+    'One day without unnecessary spending? That’s a win!',
+  ],
+  2: [
+    'Well done! Two days without impulse buys this week.',
+    'You’re building momentum! Two days of smart spending choices.',
+    'Two days of progress! You’re on your way to better habits.',
+    'You’ve had two spend-free days this week. Keep it up!',
+    'Two days without unnecessary spending? That’s a win worth celebrating!',
+  ],
+  3: [
+    'You’re making progress! Three days without impulse purchases.',
+    'Great job! Three days of staying within your budget.',
+    'Three smart spending days? You’re crushing it!',
+    'You’re building better habits! Three days without unnecessary spending.',
+    'Three days of progress! Keep up the good work!',
+  ],
+  4: [
+    'You’re on a roll! Four days without impulse buys this week.',
+    'Well done! Four days of smart spending choices.',
+    'Four days without unnecessary spending? That’s a win worth celebrating!',
+    'You’re making great progress! Four days of staying within your budget.',
+    'Four days of progress! Keep the momentum going!',
+  ],
+  5: [
+    'Amazing! Five days without impulse purchases this week.',
+    'You’re a budgeting pro! Five days of smart spending choices.',
+    'Five days without unnecessary spending? You’re unstoppable!',
+    'Well done! Five days of staying within your budget.',
+    'Five days of progress! You’re building better habits every week.',
+  ],
+  6: [
+    'Incredible! Six days without impulse buys this week.',
+    'You’re unstoppable! Six days of staying within your budget.',
+    'Six smart spending days? You’re a budgeting superstar!',
+    'Well done! Six days without unnecessary spending.',
+    'Six days of progress! Keep up the amazing work!',
+  ],
+  7: [
+    'Perfect week! Seven days without impulse buys. You’re a champion!',
+    'You’ve nailed it! Seven days of staying within your budget.',
+    'Seven smart spending days? You’re a budgeting master!',
+    'Incredible! Seven days without unnecessary spending.',
+    'Seven days of progress! That’s a huge win!',
+  ],
+  8: [
+    'You’re on fire! More than 7 days without spending. Keep the streak alive!',
+    'High five! You’ve gone beyond a week without impulse buys.',
+    'You’re crushing it! Over 7 days without spending. What a legend!',
+    'You’ve leveled up! More than a week of smart spending choices.',
+    'You’re a budgeting hero! Over 7 days without unnecessary purchases.',
+  ],
+};
